@@ -1,5 +1,5 @@
 {
-  "name": "D-Notes",
+  "name": "notes-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,8 +8,10 @@
     "@testing-library/user-event": "^12.1.10",
     "@textile/hub": "^6.1.2",
     "bcryptjs": "^2.4.3",
+    "bootstrap": "^4.6.0",
     "ethers": "^5.0.32",
     "formik": "^2.2.6",
+    "node-fetch": "^2.6.1",
     "react": "^17.0.1",
     "react-bootstrap": "^1.5.2",
     "react-bootstrap-icons": "^1.4.0",
